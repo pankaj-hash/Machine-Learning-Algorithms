@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Machine-Learning-Algorithms/mlruns/0/a18caee9bbc24411a75da11b97198e48/artifacts
+end_time: 1757478798783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18caee9bbc24411a75da11b97198e48
+run_name: fun-wolf-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757478798755
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Machine-Learning-Algorithms/mlruns/713908504174880926/f2a466cd11f04333bb06fae9671bcca8/artifacts
+end_time: 1757478799294
+entry_point_name: ''
+experiment_id: '713908504174880926'
+lifecycle_stage: active
+run_id: f2a466cd11f04333bb06fae9671bcca8
+run_name: handsome-lynx-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757478798785
+status: 3
+tags: []
+user_id: codespace
